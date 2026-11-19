@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="it"><head><meta charset="utf-8"><title>Sorano upload - privacy</title></head>
+<body>
+<h1>Informativa sulla privacy - Sorano upload</h1>
+<p>Sorano upload è usato solo dal titolare dell'account Google su cui è
+autorizzato. Usa l'ambito <code>drive.file</code>: può vedere e modificare
+soltanto i file che crea lui stesso (i dati tecnici della centrale), non il
+resto del Drive.</p>
+<p>Non raccoglie dati personali, non li condivide con terzi e non li invia a
+server diversi da Google Drive. Il token di accesso resta sul computer della
+centrale.</p>
+<p>L'accesso si revoca in qualsiasi momento da
+<a href="https://myaccount.google.com/permissions">myaccount.google.com/permissions</a>.</p>
+</body></html>

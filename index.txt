@@ -1,0 +1,9 @@
+<!doctype html>
+<html lang="it"><head><meta charset="utf-8"><title>Sorano upload</title></head>
+<body>
+<h1>Sorano upload</h1>
+<p>Strumento ad uso interno di SOLE srl: carica sul Google Drive dell'azienda
+i dati di funzionamento della centrale idroelettrica Acqua d'Alto (Sorano).
+Non è un servizio pubblico e non è destinato ad altri utenti.</p>
+<p><a href="privacy.html">Informativa sulla privacy</a></p>
+</body></html>
